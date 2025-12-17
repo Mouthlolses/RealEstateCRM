@@ -10,9 +10,9 @@ import androidx.compose.ui.Modifier
 import androidx.navigation.NavController
 import org.francalandproject.project.components.TopBarWithTabs
 import org.francalandproject.project.repository.ClientRepository
-import org.francalandproject.project.screens.debitsLayer.ConsultDebitsScreen
-import org.francalandproject.project.screens.contractsLayer.ContractsScreen
 import org.francalandproject.project.screens.buyerLayer.BuyersScreen
+import org.francalandproject.project.screens.contractsLayer.ContractsScreen
+import org.francalandproject.project.screens.debitsLayer.ConsultDebitsScreen
 
 
 @Composable
